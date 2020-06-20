@@ -10,3 +10,5 @@ git commit
 
 git rm
 を試してみた
+
+git status
